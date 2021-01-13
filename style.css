@@ -1,3 +1,10 @@
+.navbar-bg-change{
+    background-color: blue;
+    margin-bottom: 100px;
+}
+.margin-change{
+    margin-bottom: 100px;
+}
 .color-add-1{
     background-color: orange;
     padding: 10px 30px;
